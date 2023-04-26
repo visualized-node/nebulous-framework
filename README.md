@@ -1,5 +1,7 @@
 # Nebulous.luau
 
+# The Project is no longer maintained. May release some patches at one point. If you want to create addons for usg join our Discord Server, and check the addon-sources channel!
+
 **Nebulous** is an open-sourced UI Library specifically developed for creating ui faster in my game and in mods along with implementing Attirbute-Based events and applications (transitioned disabling for example) etc. It's also peak customizable so one point for that.
 
 ## This is obviously still a WIP and most things are written in an unclean and unoptimized matter. Do not judge this stage of development as a final product
